@@ -1,0 +1,133 @@
+{
+  "11aaaac8fb0b0ad228fb0779cc6b27c16af750eb092df5dc698a09b9f044575e": {
+    "type": "a",
+    "props": {
+      "data-_gt": {
+        "id": 1
+      },
+      "children": "阅读我们的文档"
+    }
+  },
+  "9db06ff0f51aad027d77b69649c0cffec61669dbbdfa0b67686696c4932fa0f9": {
+    "type": "a",
+    "props": {
+      "data-_gt": {
+        "id": 1
+      },
+      "children": [
+        {
+          "type": "Image",
+          "props": {
+            "data-_gt": {
+              "id": 2
+            }
+          }
+        },
+        "立即部署"
+      ]
+    }
+  },
+  "1ec7d4b64c50f958c5e9ce970534900b48e064533277e45fec6c2021534f8332": [
+    "创建 Next App"
+  ],
+  "3c46775a72cb30f4fe97e6e6e0ca45123006cac10ae939da5fdca019098f11d6": {
+    "type": "ol",
+    "props": {
+      "data-_gt": {
+        "id": 1
+      },
+      "children": [
+        {
+          "type": "li",
+          "props": {
+            "data-_gt": {
+              "id": 2
+            },
+            "children": [
+              "通过编辑 ",
+              {
+                "type": "code",
+                "props": {
+                  "data-_gt": {
+                    "id": 3
+                  },
+                  "children": "app/page.tsx"
+                }
+              },
+              " 开始。"
+            ]
+          }
+        },
+        {
+          "type": "li",
+          "props": {
+            "data-_gt": {
+              "id": 4
+            },
+            "children": "保存并立即查看您的更改。"
+          }
+        }
+      ]
+    }
+  },
+  "fc0f0153077996c8dcc8259cb5628b41924b87301ff4f80a7f847a06d4d62369": [
+    "由 create next app 生成"
+  ],
+  "5f976d283dd4a0b858508e8ed4780ac99a6316909c7dbe0dad033145f682e6ff": {
+    "type": "a",
+    "props": {
+      "data-_gt": {
+        "id": 1
+      },
+      "children": [
+        {
+          "type": "Image",
+          "props": {
+            "data-_gt": {
+              "id": 2
+            }
+          }
+        },
+        "前往 nextjs.org →"
+      ]
+    }
+  },
+  "1b1f4bf49fbdb8c58d8ea4501509d847bee651429b497b2d18ace828f2441c7e": {
+    "type": "a",
+    "props": {
+      "data-_gt": {
+        "id": 1
+      },
+      "children": [
+        {
+          "type": "Image",
+          "props": {
+            "data-_gt": {
+              "id": 2
+            }
+          }
+        },
+        "学习"
+      ]
+    }
+  },
+  "185611f77a3adfa61c48acd33192cc3974671954b5394660609f5b33eb3f54e5": {
+    "type": "a",
+    "props": {
+      "data-_gt": {
+        "id": 1
+      },
+      "children": [
+        {
+          "type": "Image",
+          "props": {
+            "data-_gt": {
+              "id": 2
+            }
+          }
+        },
+        "示例"
+      ]
+    }
+  }
+}
