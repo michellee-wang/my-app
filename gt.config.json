@@ -2,7 +2,10 @@
   "projectId": "prj_qp4c3873oge0fd6f559ywvyd",
   "locales": [
     "en",
-    "es"
+    "es",
+    "en-US",
+    "af",
+    "am"
   ],
   "defaultLocale": "en",
   "files": {
