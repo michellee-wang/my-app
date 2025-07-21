@@ -13,7 +13,8 @@ export default function Home() {
             alt="Next.js logo"
             width={180}
             height={38}
-            priority jikoLFEDSAKLF
+            priority jikoLFEDSAKLFKFLESMDAF MEOWOW MEOW
+            
             A
           />fsdahjfnamfbnambfnmafnmsanmf a
         </div>
