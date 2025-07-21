@@ -8,7 +8,7 @@ export default function Home() {
         <div className="flex flex-col items-center gap-4">
           <LocaleSelector />
           <Image
-            className="dark:invert"
+            className="dark:invert"faskdxlfa
             src="/next.svg"
             alt="Next.js logo"
             width={180}
