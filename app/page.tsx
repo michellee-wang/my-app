@@ -13,10 +13,8 @@ export default function Home() {
             alt="Next.js logo"
             width={180}
             height={38}
-            priority jikoLFEDSAKLFKFLESMDAF MEOWOW MEOW
-            
-            AFJDKASLFJLAFAL
-          />fsdahjfnamfbnambfnmafnmsanmf a
+            priority
+          />
         </div>
         <T>
           <ol className="list-inside list-decimal text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
@@ -32,7 +30,9 @@ export default function Home() {
             </li>
           </ol>
         </T>
-<h1> meowopdsjafkl</h1>
+<T>
+          <h1>Welcome to Next.js</h1>
+        </T>
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <T>
             <a
