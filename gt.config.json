@@ -1,9 +1,8 @@
 {
-  "projectId": "d6d28a6a-1198-48eb-9bc3-24ffee0f949e",
+  "projectId": "prj_qp4c3873oge0fd6f559ywvyd",
   "locales": [
     "en",
-    "es",
-    "zh"
+    "es"
   ],
   "defaultLocale": "en",
   "files": {
@@ -12,5 +11,6 @@
     }
   },
   "framework": "next-app",
-  "_versionId": "8cd1ef1cf61a8c926aa8c9467c2e1ca1cbf6d984664c3bc69d42436a93e26075"
+  "_versionId": "8cd1ef1cf61a8c926aa8c9467c2e1ca1cbf6d984664c3bc69d42436a93e26075",
+  "baseUrl": "http://localhost:10000"
 }
