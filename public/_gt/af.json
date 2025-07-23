@@ -1,0 +1,81 @@
+{
+  "5aa871958a8f167b": "Skep Next App",
+  "493c8266e82286b4": {
+    "i": 1,
+    "c": [
+      {
+        "i": 2,
+        "d": {
+          "alt": "Globe icon"
+        }
+      },
+      "Gaan na nextjs.org →"
+    ]
+  },
+  "70241ddee8df6835": {
+    "i": 1,
+    "c": [
+      {
+        "i": 2,
+        "d": {
+          "alt": "Vercel logomark"
+        }
+      },
+      "Ontplooi nou"
+    ]
+  },
+  "86cb49b07c50995d": {
+    "i": 1,
+    "c": [
+      {
+        "i": 2,
+        "d": {
+          "alt": "Window icon"
+        }
+      },
+      "Voorbeelde"
+    ]
+  },
+  "712bd3b787880177": "Gegenereer deur create next bviuukjl app",
+  "3838c7ec2a2da5dd": {
+    "i": 1,
+    "c": [
+      {
+        "i": 2,
+        "d": {
+          "alt": "File icon"
+        }
+      },
+      "Leer"
+    ]
+  },
+  "e82a533799ffa296": {
+    "i": 1,
+    "c": "Lees ons dokumentasie"
+  },
+  "501e1265d67b4e18": {
+    "i": 1,
+    "c": [
+      {
+        "i": 2,
+        "c": [
+          "Begin deur ",
+          {
+            "i": 3,
+            "c": "app/page.tsx"
+          },
+          " te redigeer."
+        ]
+      },
+      {
+        "i": 4,
+        "c": "Stoor en sien jou veranderinge onmiddellik.",
+        "t": "li"
+      }
+    ]
+  },
+  "8826323be49154b6": {
+    "i": 1,
+    "c": "Welkom by Next.js"
+  }
+}

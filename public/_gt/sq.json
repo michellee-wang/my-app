@@ -1,0 +1,81 @@
+{
+  "5aa871958a8f167b": "Krijo Next App",
+  "3838c7ec2a2da5dd": {
+    "i": 1,
+    "c": [
+      {
+        "i": 2,
+        "d": {
+          "alt": "File icon"
+        }
+      },
+      "Mëso"
+    ]
+  },
+  "712bd3b787880177": "Gjeneruar nga create next bviuukjl app",
+  "86cb49b07c50995d": {
+    "i": 1,
+    "c": [
+      {
+        "i": 2,
+        "d": {
+          "alt": "Window icon"
+        }
+      },
+      "Shembuj"
+    ]
+  },
+  "70241ddee8df6835": {
+    "i": 1,
+    "c": [
+      {
+        "i": 2,
+        "d": {
+          "alt": "Vercel logomark"
+        }
+      },
+      "Publiko tani"
+    ]
+  },
+  "e82a533799ffa296": {
+    "i": 1,
+    "c": "Lexoni dokumentacionin tonë"
+  },
+  "8826323be49154b6": {
+    "i": 1,
+    "c": "Mirë se vini në Next.js"
+  },
+  "501e1265d67b4e18": {
+    "i": 1,
+    "c": [
+      {
+        "i": 2,
+        "c": [
+          "Filloni duke modifikuar ",
+          {
+            "i": 3,
+            "c": "app/page.tsx"
+          },
+          "."
+        ]
+      },
+      {
+        "i": 4,
+        "c": "Ruani dhe shikoni ndryshimet tuaja menjëherë.",
+        "t": "li"
+      }
+    ]
+  },
+  "493c8266e82286b4": {
+    "i": 1,
+    "c": [
+      {
+        "i": 2,
+        "d": {
+          "alt": "Globe icon"
+        }
+      },
+      "Shko te nextjs.org →"
+    ]
+  }
+}
